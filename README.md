@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/imabusayed/laravel-ai-translator.svg?style=flat-square)](https://packagist.org/packages/imabusayed/laravel-ai-translator)
 [![Total Downloads](https://img.shields.io/packagist/dt/imabusayed/laravel-ai-translator.svg?style=flat-square)](https://packagist.org/packages/imabusayed/laravel-ai-translator)
-[![License](https://img.shields.io/packagist/l/imabusayed/laravel-ai-translator.svg?style=flat-square)](https://packagist.org/packages/imabusayed/laravel-ai-translator)
+[![License](https://img.shields.io/github/license/imabusayed/laravel-ai-translator.svg?style=flat-square)](LICENSE.md)
 
 An AI-powered Laravel Translation Manager with OpenAI integration and UI.
 
