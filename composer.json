@@ -1,0 +1,37 @@
+{
+    "name": "imabusayed/laravel-ai-translator",
+    "description": "AI-powered Laravel Translation Manager with OpenAI integration and UI",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abu Sayed",
+            "email": "hi@abusayed.com.bd"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "laravel/framework": "^10.0|^11.0",
+        "openai-php/client": "^0.8.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "livewire/livewire": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0",
+        "orchestra/testbench": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ImAbuSayed\\LaravelAiTranslator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ImAbuSayed\\LaravelAiTranslator\\Providers\\LaravelAiTranslatorServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
