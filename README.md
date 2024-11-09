@@ -88,10 +88,6 @@ The configuration file (`config/ai-translator.php`) includes:
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
-## Security
-
-If you discover any security-related issues, please email abusayedofficialbd@gmail.com.
-
 ## Credits
 
 - [Abu Sayed](https://github.com/ImAbuSayed)
